@@ -5,4 +5,12 @@ tags:
   - tutorial
 ---
 
+## this is a h2
+
 In this article we explore how to get started with SvelteKit
+
+{% collapsible "This is the summary" %}
+
+This is the content
+
+{% endcollapsible %}
